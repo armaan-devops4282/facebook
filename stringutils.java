@@ -1,3 +1,1 @@
-this is java class contsin string related fnfff
-gggggg
-s
+this is java class contsin string related fns
